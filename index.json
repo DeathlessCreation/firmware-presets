@@ -581,6 +581,24 @@
       ]
     },
     {
+      "fullPath": "presets/4.3/osd/DJI.txt",
+      "hash": "aadd6416c810eeff0e3f0cb7453851e5b67a69b830a7da997b703dd883cc8011",
+      "options": [],
+      "title": "DJI OSD settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "DC",
+      "description": [
+        "Sets the OSD values for DJI"
+      ]
+    },
+    {
       "fullPath": "presets/4.3/other/blackbox_disable.txt",
       "hash": "71fc4b4cc44366fbbd91ad1aaf882cddd103fae91c4230988a5ebbb67b6bac5d",
       "options": [
