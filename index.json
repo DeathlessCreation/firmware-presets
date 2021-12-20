@@ -1322,7 +1322,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Eachine_NANO_VTX.txt",
-      "hash": "1998564d133e34ae8bc25a83571cf7b9a148ed731c52e2b079ae4bc359363867",
+      "hash": "ff3d59b0f4d698fc6df42a5b7fd74d54ef6681f1315ff1e449784b711c09902b",
       "options": [],
       "title": "Eachine NANO VTX",
       "firmware_version": [
@@ -1335,7 +1335,7 @@
       ],
       "author": "DC",
       "description": [
-        "VTx settings for the Eachine NANO VTX V2"
+        "VTX settings for the Eachine NANO VTX V2"
       ]
     }
   ]

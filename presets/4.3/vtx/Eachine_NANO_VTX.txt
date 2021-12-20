@@ -4,8 +4,9 @@
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: vtx
 #$ AUTHOR: DC
-#$ DESCRIPTION: VTx settings for the Eachine NANO VTX V2
+#$ DESCRIPTION: VTX settings for the Eachine NANO VTX V2
 
+# vtxtable
 vtxtable bands 5
 vtxtable channels 8
 vtxtable band 1 BOSCAM_A A CUSTOM 5865 5845 5825 5805 5785 5765 5745 5725
